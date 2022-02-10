@@ -32,7 +32,7 @@
   }
   #title {
     position: absolute;
-    width: 550px;
+    width: 630px;
     background-color: black;
     border-radius: 5px;
     top: 40px;
@@ -40,7 +40,7 @@
     color: #66FCF1;
     font-family: exo;
     font-weight: 600;
-    font-size: 4em;
+    font-size: 5em;
     height: auto;
     text-shadow:
      -1px -1px 0 #C5C6C7,  
@@ -50,15 +50,15 @@
   }
   #subtitle {
     position: absolute;
-    width: 330px;
+    width: 302x;
     background-color: black;
     border-radius: 5px;
-    top: 140px;
+    top: 150px;
     left: 30px;
     color: #66FCF1;
     font-family: exo;
     font-weight: 40;
-    font-size: 2.5em;
+    font-size: 3em;
     text-shadow:
      -1px -1px 0 #C5C6C7,  
       1px -1px 0 #C5C6C7,
